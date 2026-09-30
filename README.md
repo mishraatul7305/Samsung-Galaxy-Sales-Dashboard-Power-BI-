@@ -1,8 +1,6 @@
 # Samsung-Galaxy-Sales-Dashboard-Power-BI-
 Interactive Power BI dashboard analyzing sales, profit, and discounts.
-# Samsung Galaxy S26 Sales Dashboard (Power BI)
 
-Interactive Power BI dashboard analyzing sales, profit, and discounts.
 
 ## Key Insights
 - Total Sales: 118.73M | Profit: 16.89M
